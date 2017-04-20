@@ -1,3 +1,10 @@
+/**
+ * search the directory for the valid match of letter combinations
+ * 
+ * @author Zhongchao
+ * @since 2016-06-15
+ */
+
 package com.csci3130.group03.model;
 
 import java.io.IOException;

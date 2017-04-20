@@ -19,7 +19,7 @@ import com.vaadin.addon.jpacontainer.JPAContainerFactory;
  * matching password and password validation. Further, it handles authentication
  * for login.
  * 
- * @author Justin Tan, Eric Desjardins, Stanford Lockhart
+ * @author Zhongchao Tan, Eric Desjardins, Stanford Lockhart
  * @since 2016-06-23
  * @version 2.0
  */

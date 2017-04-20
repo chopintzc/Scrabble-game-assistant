@@ -13,7 +13,7 @@ import javax.validation.constraints.Size;
  * Creates a user instance that will be propagated in the database
  * 
  * 
- * @author Eric Desjardins, Justin Tan, Stanford Lockhart
+ * @author Eric Desjardins, Zhongchao Tan, Stanford Lockhart
  * @since 2016-06-23
  * @version 2.0
  * 

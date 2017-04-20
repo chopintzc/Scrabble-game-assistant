@@ -15,7 +15,7 @@ import com.vaadin.testbench.TestBenchTestCase;
  * validate the logic behind creating a new user, adding the user to the systems
  * and password validation. It also handles authentication.
  * 
- * @author Justin Tan, Eric Desjardins
+ * @author Zhongchao Tan, Eric Desjardins
  * 
  * @since 2016-06-09
  *

@@ -11,7 +11,7 @@ import com.vaadin.ui.VerticalLayout;
  * Test cases for the LoginView view file. The LoginView contains two forms:
  * registration and login.
  * 
- * @author Eric Desjardins, Justin Tan
+ * @author Eric Desjardins, Zhongchao Tan
  * @since 2016-06-03
  *
  */

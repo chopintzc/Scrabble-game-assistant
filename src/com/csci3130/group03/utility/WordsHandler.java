@@ -1,3 +1,10 @@
+/**
+ * a couple of methods to handle the arraylist of words
+ * 
+ * @author Zhongchao
+ * @since 2016-06-11
+ */
+
 package com.csci3130.group03.utility;
 
 import java.io.IOException;

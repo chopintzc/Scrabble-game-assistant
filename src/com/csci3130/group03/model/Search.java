@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author Zhongchao
+ * @since 2016-06-08
+ */
+
 package com.csci3130.group03.model;
 
 import java.io.IOException;

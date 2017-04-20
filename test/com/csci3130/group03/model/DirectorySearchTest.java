@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author Zhongchao Tan
+ * @since 2016-06-09
+ */
+
 package com.csci3130.group03.model;
 
 import static org.junit.Assert.assertEquals;

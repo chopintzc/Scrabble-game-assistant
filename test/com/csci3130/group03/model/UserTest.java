@@ -7,7 +7,7 @@ import com.vaadin.testbench.TestBenchTestCase;
 /**
  * Runs the tests for the User model
  * 
- * @author Eric Desjardins, Justin Tan
+ * @author Eric Desjardins, Zhongchao Tan
  * @since 2016-06-01
  */
 public class UserTest extends TestBenchTestCase {
