@@ -1,0 +1,10 @@
+@import "addons.scss";
+@import "group03.scss";
+
+/* This file prefixes all rules with the theme name to avoid causing conflicts with other themes. */
+/* The actual styles should be defined in group03.scss */
+.group03 {
+  @include addons;
+  @include group03;
+}
+@include v-font(Scramble, "./fonts/Scramble");
